@@ -1,8 +1,8 @@
 ## A Ahsan (HABIB)
 
 ```
-880-171-306-6403 — 880-172-272-7727 — #aahsan.ualberta@gmail.com — #h.ahsan@yahoo.com.com — ï
-linkedin.com/in/habib-aahsan — https://x.com/bdAAhsan — §github.com/aahsan
+Phone: 880-171-306-6403, 880-172-272-7727 — #aahsan.ualberta@gmail.com — #h.ahsan@yahoo.com.com — 
+linkedin.com/in/habib-aahsan — https://x.com/bdAAhsan — github.com/aahsan
 ```
 ## Summary
 
