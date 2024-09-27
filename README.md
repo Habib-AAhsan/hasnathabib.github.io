@@ -1,4 +1,3 @@
-# Controlled for UKM use only
 
 ## A Ahsan (HABIB)
 
@@ -84,8 +83,6 @@ i-Energy Engineering Services Ltd. Jan 2014 — May 2016
 Head of Segment – (Engineering Services, EnS)
 Rahimafrooz Energy Services Ltd. , RAHIMAFROOZ Group Dec 2009 — Dec 2013
 ```
-
-# Controlled for UKM use only
 
 ```
 Manager — Engineering Services
