@@ -13,30 +13,30 @@ mitigation. I also have academic background of a novel research (MEMS) based MSc
 University of Alberta, CANADA
 
 ```
-StatusConsultant & COO with a Pvt Company
-Rep OfSoundPLAN GmbH, GeoNoise Thailand
-QualifMSc MecE, University of Alberta CANADA,
+Status: Consultant & COO with a Pvt Company
+Rep Of: SoundPLAN GmbH, GeoNoise Thailand
+Qualif: MSc MecE, University of Alberta CANADA,
 BSc ME BUET
 ```
 ```
-AffiliationFellow (IEB), IEEE, ASME, AIAA USA
-Pro.CertifiedIEEE Xplore, Google Scholar
-Nationalities Canadaian German Thai Netherlands
-worked withIndian Singaporean Chinese Malaysian
+Affiliation Fellow: (IEB), IEEE, ASME, AIAA USA
+Pro.Certified: IEEE Xplore, Google Scholar
+Nationalities worked with: Canadaian German Thai Netherlands
+Indian Singaporean Chinese Malaysian
 ```
 ## Skills
 
 ```
-AreasBz Ops, PMP, BzDev-SMS,IT,SCM,Energy
-AutomationBusiness Analytics, AI, ML, Data Analytics
+Areas: Bz Ops, PMP, BzDev-SMS,IT,SCM,Energy
+Automation: Business Analytics, AI, ML, Data Analytics
 Electro-MechHV/LV Power,AutoControl,MPU,HVAC,VRF
-LanguagesMATLAB,FORTRAN77,Python,SQL,VB,C++
+Languages: MATLAB,FORTRAN77,Python,SQL,VB,C++
 ```
 ```
-DesignANSYS,FEMLAB,AutoCAD3D,SoundPLAN
-OpSysSUSE–REDHAT–KALI Linux, Windows
-StandardsQMS,EMS,OHSAS,ISO,IEC,ASME,ASHRAE
-HobbyCompCoding,Traveling,Reading,Writing
+Design: ANSYS,FEMLAB,AutoCAD3D,SoundPLAN
+OpSys: SUSE–REDHAT–KALI Linux, Windows
+Standards: QMS,EMS,OHSAS,ISO,IEC,ASME,ASHRAE
+Hobby: CompCoding,Traveling,Reading,Writing
 ```
 ## Areas of Interest
 
