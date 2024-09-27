@@ -5,9 +5,9 @@
 880-171-306-6403 — 880-172-272-7727 — #aahsan.ualberta@gmail.com — #h.ahsan@yahoo.com.com — ï
 linkedin.com/in/habib-aahsan — https://x.com/bdAAhsan — §github.com/aahsan
 ```
-## Summary—I am a professional with unique analytical and problem solving skills who applied them in different phases
+## Summary
 
-of the career: Business/Data Analytics, Operation Management, Business Strategic Management System and Project
+I am a professional with unique analytical and problem solving skills who applied them in different phasesof the career: Business/Data Analytics, Operation Management, Business Strategic Management System and Project
 Management, Engineering & Scientific Research, Energy Engineering Management, Environmental Management and
 mitigation. I also have academic background of a novel research (MEMS) based MSc in Mechanical Engineering from
 University of Alberta, CANADA
