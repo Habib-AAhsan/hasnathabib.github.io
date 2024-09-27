@@ -155,8 +155,6 @@ AutoCAD Training on 2D and 3D BD
 Institute of Engineers, Bangladesh (IEB)
 ```
 
-# Controlled for UKM use only
-
 ```
 Training on Supply Chain Management (SCM) BD
 Bdjobs Training Center Dhaka
@@ -221,7 +219,6 @@ Chief Project Proponent on Digital Ambient NMNS for Dhaka City Traffic Aug 2022
 Department of Environment, Bangladesh (DOE)
 ```
 
-# Controlled for UKM use only
 
 ```
 Souvenir Article Writer on the World Environment Day 2018 Jun 2018
