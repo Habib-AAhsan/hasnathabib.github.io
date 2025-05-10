@@ -1,18 +1,16 @@
 ## A Ahsan (HABIB)
 
 ```
-Phone: 880-171-306-6403, 880-172-272-7727 — #aahsan.ualberta@gmail.com — #h.ahsan@yahoo.com.com — 
+Phone: 60-11-2610-2790, 880-171-306-6403 — #aahsan.ualberta@gmail.com — #h.ahsan@yahoo.com.com — 
 linkedin.com/in/habib-aahsan — https://x.com/bdAAhsan — github.com/aahsan
 ```
 ## Summary
 
-I am a professional with unique analytical and problem solving skills who applied them in different phasesof the career: Business/Data Analytics, Operation Management, Business Strategic Management System and Project
-Management, Engineering & Scientific Research, Energy Engineering Management, Environmental Management and
-mitigation. I also have academic background of a novel research (MEMS) based MSc in Mechanical Engineering from
-University of Alberta, CANADA
+I am a professional with unique analytical and problem solving skills who applied them in different phasesof the career: Business/Data Analytics, Operation Management, Business Strategic Management System and Project Management, Engineering & Scientific Research, Energy Engineering Management, Environmental Management and mitigation. Being a Postgrad Student of Data Science-FCSIT in University of Malaya, MY, I also have an academic background of a novel research (MEMS) based MSc in Mechanical Engineering from University of Alberta, CANADA
 
 ```
-Status: Consultant & COO with a Pvt Company
+Status:
+PostGrad Student Computer Science & Information Technology, University of Malaya, MY
 Rep Of: SoundPLAN GmbH, GeoNoise Thailand
 Qualif: MSc MecE, University of Alberta CANADA,
 BSc ME BUET
@@ -237,6 +235,6 @@ Reference will be available upon request
 ```
 ```
 (AHM Habib Ahsan)
-Dated: 19 Sep 2024
+Dated: 10 May 2025
 ```
 
