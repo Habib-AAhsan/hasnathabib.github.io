@@ -18,7 +18,7 @@ Versatile and tech-driven professional with over 15 years of experience in:
 - Business Intelligence
 - Data Engineering & Analytics
 
-Currently pursuing an MSc in Data Science with a focus on:
+Currently on a postgrad research in Data Science with a focus on:
 - Machine Learning
 - Cybersecurity
 - Business Analytics
