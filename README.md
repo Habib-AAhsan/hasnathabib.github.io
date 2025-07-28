@@ -4,10 +4,11 @@ Welcome to my professional resume repository. This repository contains my up-to-
 
 ## 📄 Download My CV
 
-- [📥 Download CV – PDF Version](cv_Ahsan_Habib.pdf)
-- [🧾 View LaTeX Source Code](cv_Ahsan_Habib.tex)
+- [📥 Download Resume – PDF Version (with QR)](Resume_2507_AAhsanQR.pdf)
+- [📄 Download Resume – Standard PDF Version](Resume_2507_AAhsan.pdf)
+- [🧾 View LaTeX Source Code](Resume_2507_AAhsan.tex)
 
-You can also view the compiled PDF directly on GitHub by clicking the PDF link above.
+You can also view the compiled PDFs directly on GitHub by clicking the links above.
 
 ## ✍️ About Me
 
